@@ -4,9 +4,8 @@ import datetime
 import json
 
 # import utilities
-import numpy as np
+
 from dateutil.relativedelta import relativedelta
-import pandas as pd
 
 # import ORM stuff
 import sqlalchemy
